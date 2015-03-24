@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enigma</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="type_here_">type here..</string>
+    <string name="clear">clear</string>
+    <string name="done">done</string>
+    <string name="mode">mode</string>
+    <string name="encoding_">encoding...</string>
+    <string name="s">s</string>
+    <string name="e">e</string>
+    <string name="x">x</string>
+
+</resources>
